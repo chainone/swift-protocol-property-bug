@@ -23,7 +23,5 @@ extension UIRole: Assigneeable{
     
 }
 
-extension UICompany: Assigneeable{
-    
-}
+
 

@@ -9,7 +9,6 @@
 /* Begin PBXBuildFile section */
 		4914BCD21C76FD3000D53BD3 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4914BCD11C76FD3000D53BD3 /* main.swift */; };
 		4914BCD91C76FD4200D53BD3 /* UIRole.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4914BCD81C76FD4200D53BD3 /* UIRole.swift */; };
-		4914BCDB1C76FD5900D53BD3 /* UICompany.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4914BCDA1C76FD5900D53BD3 /* UICompany.swift */; };
 		4914BCDD1C76FD6D00D53BD3 /* Assigneeable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4914BCDC1C76FD6D00D53BD3 /* Assigneeable.swift */; };
 /* End PBXBuildFile section */
 
@@ -29,7 +28,6 @@
 		4914BCCE1C76FD3000D53BD3 /* SwiftProtoclProperty */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = SwiftProtoclProperty; sourceTree = BUILT_PRODUCTS_DIR; };
 		4914BCD11C76FD3000D53BD3 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		4914BCD81C76FD4200D53BD3 /* UIRole.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIRole.swift; sourceTree = "<group>"; };
-		4914BCDA1C76FD5900D53BD3 /* UICompany.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UICompany.swift; sourceTree = "<group>"; };
 		4914BCDC1C76FD6D00D53BD3 /* Assigneeable.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Assigneeable.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -65,7 +63,6 @@
 			children = (
 				4914BCD11C76FD3000D53BD3 /* main.swift */,
 				4914BCD81C76FD4200D53BD3 /* UIRole.swift */,
-				4914BCDA1C76FD5900D53BD3 /* UICompany.swift */,
 				4914BCDC1C76FD6D00D53BD3 /* Assigneeable.swift */,
 			);
 			path = SwiftProtoclProperty;
@@ -129,7 +126,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				4914BCDD1C76FD6D00D53BD3 /* Assigneeable.swift in Sources */,
-				4914BCDB1C76FD5900D53BD3 /* UICompany.swift in Sources */,
 				4914BCD21C76FD3000D53BD3 /* main.swift in Sources */,
 				4914BCD91C76FD4200D53BD3 /* UIRole.swift in Sources */,
 			);
@@ -251,6 +247,7 @@
 				4914BCD71C76FD3000D53BD3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
