@@ -11,3 +11,4 @@ func ==(lhs: UIRole, rhs: UIRole) -> Bool {
     return lhs.oxygenId == rhs.oxygenId && lhs.name == rhs.name /*&& lhs.hasAssignee == rhs.hasAssignee*/
 }
 ```
+Bug reported to Swift team: https://bugs.swift.org/browse/SR-788
